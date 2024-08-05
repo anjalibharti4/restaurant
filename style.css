@@ -1,0 +1,64 @@
+.bg-box{
+    width: 100%; /* Set the desired width */
+    height: 750px; /* Set the desired height */
+    background-image: url('./classic-hamburger-and-french-fries-on-wooden-board-1556688.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire div */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    margin: 0px;
+}
+.card-style{
+    
+     background-color:rgba(255, 255, 255, 0.0);/* full transparent*/
+     color: white;
+     margin-top: 120px;
+     margin-left: 120px;
+}
+.btn1{
+    background-color: rgb(239, 164, 23);
+    border-radius: 20px;
+    color: white;
+}
+.a{
+    color: white;
+}
+.text-menu{
+    font-size: 1.3rem;
+    color:#f00;
+}
+.box{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width:100%;
+    margin-top: 80px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 5px solid #fff;
+    
+}
+.image_box{
+   
+    
+    position: relative;
+    border-radius: 50%;
+    border: 5px solid yellow;
+}
+.image_index_box{
+    left: 5%;
+}
+.image_menu_box{
+    left: 15%;
+    margin-top: 5%;
+}
+.h3,h2{
+    color: white;
+}
+.mt-8{
+  margin-top: 2rem !important;
+}
+.ml-c{
+    margin-left: 50%;
+}
+
+
